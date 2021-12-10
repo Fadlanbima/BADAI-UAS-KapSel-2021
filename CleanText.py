@@ -1,6 +1,6 @@
-from BADAI_UAS_Kapsel import TextMining as tm
+from BADAI_UAS_KapSel import TextMining as tm
 import time
-from BADAI_UAS_Kapsel import openewfile as of
+from BADAI_UAS_KapSel import openewfile as of
 from tqdm import tqdm
 #import swifter
 
