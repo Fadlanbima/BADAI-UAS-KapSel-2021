@@ -20,7 +20,7 @@ from sklearn.decomposition import LatentDirichletAllocation as LDA
 import matplotlib.pyplot as plt
 import numpy as np
 from textblob import TextBlob 
-from BADAI_UAS_Kapsel import openewfile as of
+from BADAI_UAS_KapSel import openewfile as of
 
 def crawlFiles(dPath, types = None):
     #dPath = 'C:/Temp', types ='pdf'
