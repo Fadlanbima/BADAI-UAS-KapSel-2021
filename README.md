@@ -1,5 +1,3 @@
-# UAS KapSel Kelompok BADAI
-1. Fadlan Bima Hermawan (11180940000031)
-2. Atikah Dhani Ayuningtyas (11180940000057)
-3. Gushinta Nena Hargianti (11180940000086)
-4. Arlianis Arum Yesinta (11180940000091)
+# Social Media Analysis
+
+With the aim of completing the final project related to social media analysis. My team and I conducted an analysis of Twitter social media with the keywords "Hurricane and Typhoon" to find out how disaster issues spread in Indonesia. We perform several analyses, such as exploratory data, social network analysis, and sentiment analysis. as a result, we get how many likes and retweets on keywords related to disasters, we also get users who have an influence on the topic of disasters and of course sentiments related to disasters in Indonesia.
